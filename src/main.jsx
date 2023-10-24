@@ -7,7 +7,7 @@ import Lesson4 from "./4-lesson";
 ReactDOM.createRoot(document.getElementById("root")).render(
   <>
     {/* <Lesson2 /> */}
-		{/* <Lesson3 /> */}
-		<Lesson4 />
+    {/* <Lesson3 /> */}
+    <Lesson4 />
   </>
 );
