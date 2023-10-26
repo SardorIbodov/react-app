@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
+li {
+  width: 30%;
+  padding: 15px 30px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 10px;
+  position: relative;
+}
+
+li b {
+  position: absolute;
+  right: 20px;
+  top: 0px;
+  color: red;
+  font-size: 20px;
+}
