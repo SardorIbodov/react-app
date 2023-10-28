@@ -5,7 +5,8 @@ import ReactDOM from "react-dom/client";
 // import Lesson4 from "./4-lesson";
 // import Lesson5 from "./5-lesson";
 // import Lesson6 from "./6-lesson";
-import Lesson7 from "./7-lesson";
+// import Lesson7 from "./7-lesson";
+import Lesson8 from "./8-lesson";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -15,6 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <Lesson4 /> */}
     {/* <Lesson5 /> */}
     {/* <Lesson6 /> */}
-		<Lesson7 />
+		{/* <Lesson7 /> */}
+		<Lesson8 />
   </>
 );
