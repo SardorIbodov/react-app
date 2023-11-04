@@ -8,7 +8,8 @@ import ReactDOM from "react-dom/client";
 // import Lesson7 from "./7-lesson";
 // import Lesson8 from "./8-lesson";
 // import FunctionalComponents from "./9-lesson";
-import UseEffect from "./10-lesson";
+// import UseEffect from "./10-lesson";
+import UseReducer from "./11-lesson";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -21,6 +22,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <Lesson7 /> */}
     {/* <Lesson8 /> */}
     {/* <FunctionalComponents count={1}/> */}
-    <UseEffect />
+    {/* <UseEffect /> */}
+		<UseReducer />
   </>
 );
