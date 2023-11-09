@@ -9,7 +9,10 @@ import ReactDOM from "react-dom/client";
 // import Lesson8 from "./8-lesson";
 // import FunctionalComponents from "./9-lesson";
 // import UseEffect from "./10-lesson";
-import UseReducer from "./11-lesson";
+// import UseReducer from "./11-lesson";
+// import UseContext from "./12-lesson";
+// import Storages from "./13-lesson";
+import Optimization from "./14-lesson";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -23,6 +26,9 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <Lesson8 /> */}
     {/* <FunctionalComponents count={1}/> */}
     {/* <UseEffect /> */}
-		<UseReducer />
+    {/* <UseReducer /> */}
+    {/* <UseContext /> */}
+    {/* <Storages /> */}
+    <Optimization />
   </>
 );
