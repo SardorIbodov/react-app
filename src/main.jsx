@@ -12,7 +12,9 @@ import ReactDOM from "react-dom/client";
 // import UseReducer from "./11-lesson";
 // import UseContext from "./12-lesson";
 // import Storages from "./13-lesson";
-import Optimization from "./14-lesson";
+// import Optimization from "./14-lesson";
+// import UseRef from "./15-lesson";
+import Fetch from "./16-lesson";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -29,6 +31,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <UseReducer /> */}
     {/* <UseContext /> */}
     {/* <Storages /> */}
-    <Optimization />
+    {/* <Optimization /> */}
+		{/* <UseRef /> */}
+		<Fetch />
   </>
 );
