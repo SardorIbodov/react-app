@@ -14,7 +14,9 @@ import ReactDOM from "react-dom/client";
 // import Storages from "./13-lesson";
 // import Optimization from "./14-lesson";
 // import UseRef from "./15-lesson";
-import Fetch from "./16-lesson";
+// import Fetch from "./16-lesson";
+// import RouterDOM from "./17-lesson";
+import RouterDOM6 from "./18-lesson";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -33,6 +35,8 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <Storages /> */}
     {/* <Optimization /> */}
 		{/* <UseRef /> */}
-		<Fetch />
+		{/* <Fetch /> */}
+		{/* <RouterDOM /> */}
+		<RouterDOM6 />
   </>
 );
