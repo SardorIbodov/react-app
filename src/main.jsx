@@ -16,7 +16,11 @@ import ReactDOM from "react-dom/client";
 // import UseRef from "./15-lesson";
 // import Fetch from "./16-lesson";
 // import RouterDOM from "./17-lesson";
-import RouterDOM6 from "./18-lesson";
+// import RouterDOM6 from "./18-lesson";
+// import UseTransition from "./useTransition";
+// import Fetching from "./fetching";
+// import UseId from "./useId";
+import Batching from "./batching";
 import "./main.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
@@ -34,9 +38,13 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     {/* <UseContext /> */}
     {/* <Storages /> */}
     {/* <Optimization /> */}
-		{/* <UseRef /> */}
-		{/* <Fetch /> */}
-		{/* <RouterDOM /> */}
-		<RouterDOM6 />
+    {/* <UseRef /> */}
+    {/* <Fetch /> */}
+    {/* <RouterDOM /> */}
+    {/* <RouterDOM6 /> */}
+    {/* <UseTransition /> */}
+    {/* <Fetching /> */}
+    {/* <UseId /> */}
+    <Batching />
   </>
 );
